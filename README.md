@@ -5,8 +5,11 @@ The aim of this project was to examine the structure of communication networks a
 
 Objectives:
 -To examine the existing machine learning implementations in communication networks;
+
 -Processing of the dataset to make it easy to use; 
+
 -Implementation of machine learning algorithms;
+
 -Evaluation of accuracy.
 
 The links for the codes I utilized are below.
